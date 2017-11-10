@@ -1,0 +1,12 @@
+.MenuContainer {
+	display: flex;
+	justify-content: center;
+}
+
+.Header {
+  	font-size: 1em;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    text-align: inherit;
+}
